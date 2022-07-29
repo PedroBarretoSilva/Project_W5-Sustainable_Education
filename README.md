@@ -1,15 +1,6 @@
 # Project_W5-Sustainable_Education
 
-1) Doubt in Jupiter´s Notebook: identified with "???"
-
-
-
-
-
-
-
-
-2) Links to Tableau Public:
+Links to Tableau Public:
 
 
 
